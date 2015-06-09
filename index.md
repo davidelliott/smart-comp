@@ -8,7 +8,7 @@ This is an [MMU Futures](http://www.mmu.ac.uk/students/futures/award.php) worksh
 ### Introduction
 What the course is about and introduction to some useful practices for safe and productive working with computers.
 
-* Motivation
+* [Motivation](#motivation)
 * [Display Screen Equipment safety](#safety)
 * [Useful software](#software)  
 * [useful services](#services) 
@@ -56,7 +56,7 @@ Participants will be invited to shared documents by email. We will take some tim
 Take a look at the resources provided by [Software Carpentry](http://software-carpentry.org/lessons.html)
 
 * [Best Practices in Scientific Computing](http://swcarpentry.github.io/slideshows/best-practices/index.html) (slideshow and link to paper)
-* Example of peatland microbiome research
+* Example of [peatland microbiome research](https://github.com/davidelliott/peat-microbiome)
 * Demonstration of using Sourcetree to clone the analysis for the above paper
 * Run sourcetree and clone the course website
 
@@ -91,6 +91,11 @@ Project work will be broken up with a few short presentations / discussions
 
 
 ## Resources
+
+### Motivation: Reproducible research <a name="motivation"></a>
+* http://www.nature.com/news/reproducibility-1.17552
+* https://ropensci.org/blog/2014/06/09/reproducibility/
+* http://drelliott.net/reproducible-research/
 
 ### Safety
 * breaks
