@@ -112,3 +112,4 @@ http://www.hse.gov.uk/msd/dse/guidance.htm
 * Sourcetree
 * Google docs
 * Authorea
+* Markdown editor http://dillinger.io/
