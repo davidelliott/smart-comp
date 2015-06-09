@@ -1,9 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    theme: null
----
 # Smart Computing for research projects
 This is an [MMU Futures](http://www.mmu.ac.uk/students/futures/award.php) workshop that carries 6 bronze points. Please see the [course description](https://www.authorea.com/users/35598/articles/41107/_show_article) on Authorea for an outline of the course content and learning outcomes. The course registration page is [here](http://www.mmu.ac.uk/students/futures/event-detail.php?id=706).
 
