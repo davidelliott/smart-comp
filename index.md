@@ -15,7 +15,7 @@ What the course is about and introduction to some useful practices for safe and 
 * [Display Screen Equipment safety](#safety)
 * [Useful software](#software)  
 * [useful services](#services) 
-* Open source
+* Open source...
 
 ### Set up shared documents using several platforms
 
