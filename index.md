@@ -30,7 +30,7 @@ We will work together on these documents to:
 
 Participants will be invited to shared documents by email. We will take some time to register accounts for google and authorea as needed.
 
-### Smart use of files
+### Smart use of files;
 * naming files
 * file types
 * using folders
