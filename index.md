@@ -16,7 +16,7 @@ What the course is about and introduction to some useful practices for safe and 
 
 ### Set up shared documents using several platforms
 
-* google docs - A shared document about filesystem organisation - students invited to add their own suggestions and tricks, and collaboratively build a reference guide based on the content of the course
+* google docs - A shared document about file system organisation - students invited to add their own suggestions and tricks, and collaboratively build a reference guide based on the content of the course
 * Authorea - Everyone add a line to the collaborative story
 * GitHub Pages - course content website - Add your project details, as well as any notes, corrections, and resources you want to add. 
 
